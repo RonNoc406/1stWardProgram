@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bozeman 1st Ward Bulletin</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Bozeman 1st Ward Bulletin</h1>
+  <div class="gallery">
+    <div class="gallery-item">
+      <img src="images/WardProgram092125_Front.png" alt="Announcements and Missionaries">
+    </div>
+    <div class="gallery-item">
+      <img src="images/WardProgram092125_Announcements.png" alt="Ward Leadership Phone Numbers">
+    </div>
+    <div class="gallery-item">
+      <img src="images/WardProgram092125_Meeting.png" alt="Bozeman 1st Ward cover art and scripture">
+    </div>
+    <div class="gallery-item">
+      <img src="images/WardProgram092125_Back.png" alt="Sacrament Meeting Program">
+    </div>
+  </div>
+
+  <!-- Modal for full-size view -->
+  <div id="modal" class="modal">
+    <span class="close">&times;</span>
+    <img class="modal-content" id="modal-img" alt="Full Size">
+  </div>
+
+  <script>
+    // Modal functionality
+    const modal = document.getElementById("modal");
+    const modalImg = document.getElementById("modal-img");
+    const closeBtn = document.getElementsByClassName("close")[0];
+
+    document.querySelectorAll('.gallery-item img').forEach(img => {
+      img.onclick = function() {
+        modal.style.display = "block";
+        modalImg.src = this.src;
+        modalImg.alt = this.alt;
+      }
+    });
+
+    closeBtn.onclick = function() {
+      modal.style.display = "none";
+    }
+
+    window.onclick = function(event) {
+      if (event.target == modal) {
+        modal.style.display = "none";
+      }
+    }
+  </script>
+</body>
+</html>
