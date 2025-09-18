@@ -27,7 +27,7 @@ body {
 
 .gallery-item img {
   width: 100%;
-  max-width: 220px;
+  max-width: 580px;
   height: auto;
   border-radius: 8px;
   cursor: pointer;
