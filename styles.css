@@ -34,13 +34,6 @@ body {
   
 }
 
-.banner p {
-	font-size: 400px;
-	margin: auto;
-	width: 50%;
-	text-align: center;
-}
-
 .quote {
 	font-size: 10px;
 	display: block;
