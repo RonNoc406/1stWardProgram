@@ -26,10 +26,8 @@ body {
 
 /* Images span the device width */
 .banner img {
-  width: 100%;
-  max-width: 500px;
+  width: 350px;
   height: auto;
-  display: block;
   border: 1px solid #888;
   border-radius: 8px;
   
