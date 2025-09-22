@@ -41,6 +41,12 @@ body {
 	text-align: center;
 }
 
+.quote p {
+	font-size: 300px;
+	margin: auto;
+	width: 50%;
+	text-align: center;
+}
 
 /* Volunteer section styling */
 .announcement {
