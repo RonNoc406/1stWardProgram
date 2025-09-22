@@ -77,25 +77,42 @@ body {
 /*table */
 
 
-        .container {
-			font-family: Georgia, serif;
-            border: 2px solid #888;
-            border-radius: 8px;
-            background: #fff;
-            padding: 32px;
-            max-width: 700px;
-            margin: auto;
-			box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-  			transition: transform 0.2s ease;
+    .container {
+		font-family: Georgia, serif;
+        border: 2px solid #888;
+        border-radius: 8px;
+        background: #fff;
+        padding: 32px;
+        max-width: 700px;
+        margin: auto;
+		box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  		transition: transform 0.2s ease;
         }
 	
-    h2 {
+    .container form input[type="submit"] {
+		background-color: #2268a5;
+  		color: #fff;
+  		border: none;
+  		border-radius: 6px;
+		padding: 0.8em 2em;
+		font-size: 1.1em;
+		font-weight: 500;
+		cursor: pointer;
+		transition: background 0.18s;
+		}
+
+	.container form input[type="submit"]:hover {
+  		background-color: #164a7e;
+		}
+
+	h2 {
 	    font-family: 'Verdana', sans-serif;
         text-align: center;
         font-size: 1.7em;
         font-weight: bold;
         text-decoration: underline;
         }
+	
 	h3 {
 		font-family: 'Verdana', sans-serif;
         text-align: center;
