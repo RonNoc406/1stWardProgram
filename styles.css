@@ -35,6 +35,13 @@ body {
   
 }
 
+.banner p {
+	display: block;
+	margin: auto;
+	width: 50%;
+	align-text: center;
+}
+
 .gallery-item img:hover {
   transform: scale(1.04);
 }
