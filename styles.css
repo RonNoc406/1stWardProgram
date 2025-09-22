@@ -11,7 +11,7 @@ body {
   align-content: center;
   flex-direction: column;
   gap: 1.5rem;
-  max-width: 360px;
+  max-width: 320px;
   margin: 2rem auto;
   padding: 0 1rem;
 }
@@ -87,7 +87,7 @@ body {
         border-radius: 8px;
 		background: #fff;
         padding: 32px;
-        width: 100%;
+        width: 95%;
         margin: auto;
 		box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   		transition: transform 0.2s ease;
