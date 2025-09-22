@@ -43,6 +43,7 @@ body {
 
 .quote p {
 	font-size: 300px;
+	display: block;
 	margin: auto;
 	width: 50%;
 	text-align: center;
