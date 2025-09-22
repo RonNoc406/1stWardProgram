@@ -41,6 +41,7 @@ body {
 
 /* Volunteer section styling */
 .volunteer {
+  font-family: Verdana, sans-serif;
   background: #fff;
   max-width: 600px;
   margin: 2rem auto;
