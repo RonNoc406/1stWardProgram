@@ -9,8 +9,6 @@ body {
 .gallery {
   display: flex;
   flex-direction: column;
-  align-content: center;
-  align-items: center;
   gap: 1.5rem;
   width: 360ps;
   max-width: 900px;
@@ -20,7 +18,7 @@ body {
 
 /* Individual gallery items */
 .gallery-item {
-  width: 360px;
+  width: 100%;
   box-sizing: border-box;
 }
 
