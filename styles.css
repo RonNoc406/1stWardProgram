@@ -91,7 +91,7 @@ body {
         background: #fff;
         padding: 32px;
         max-width: 700px;
-        margin-bottom: 1.8em;
+        margin: 1.2em;
 		box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   		transition: transform 0.2s ease;
         }
