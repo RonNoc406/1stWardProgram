@@ -21,7 +21,7 @@ body {
 .gallery-item {
   width: 100%;
   box-sizing: border-box;
-  margin-bottom: 1.8em;
+  
 }
 
 /* Images span the device width */
@@ -87,6 +87,7 @@ body {
         padding: 32px;
         max-width: 700px;
         margin: auto;
+		margin-bottom: 1.8em;
 		box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   		transition: transform 0.2s ease;
         }
