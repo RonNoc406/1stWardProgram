@@ -36,7 +36,7 @@ body {
 }
 
 .banner p {
-	display: block;
+	font-size: 400px;
 	margin: auto;
 	width: 50%;
 	
