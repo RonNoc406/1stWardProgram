@@ -157,9 +157,15 @@ body {
         }
 
 .jesus {
+	display: block;
+	margin: auto;
 	width: 100px;
 	height: auto;
 }
+
+.jesus img {
+	width: 90px;
+	height: auto;
 
 /* Responsive design */
 @media (max-width: 600px) {
