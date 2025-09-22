@@ -42,8 +42,10 @@ body {
 	align-text: center;
 }
 
-.gallery-item img:hover {
-  transform: scale(1.04);
+.quote {
+  font-family: Georgia, serif;
+  font-size: 400px;
+  text-align: center;
 }
 
 /* Volunteer section styling */
