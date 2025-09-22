@@ -51,11 +51,11 @@ body {
   text-align: center;
 }
 
-.announement h3 {
+.announement p {
   margin-bottom: 1.2rem;
   color: #2268a5;
-  font-size: 1.3rem;
-  font-weight: 600;
+  font-size: 1rem;
+  font-weight: 500;
 }
 
 .announcement form input[type="submit"] {
