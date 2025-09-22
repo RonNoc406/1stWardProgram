@@ -19,8 +19,7 @@ body {
 
 /* Individual gallery items */
 .banner {
-  width: 100%;
-  box-sizing: border-box;
+  width: 90%;
   margin-bottom: 1.8em;
   align-content: center;
 }
