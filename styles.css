@@ -88,6 +88,17 @@ body {
 			box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   			transition: transform 0.2s ease;
         }
+	.container form input[type="submit"] {
+  		background-color: #2268a5;
+  		color: #fff;
+  		border: none;
+  		border-radius: 6px;
+ 		padding: 0.8em 2em;
+  		font-size: 1.1em;
+  		font-weight: 500;
+  		cursor: pointer;
+  		transition: background 0.18s;
+		}
         h2 {
 	    font-family: 'Verdana', sans-serif;
             text-align: center;
