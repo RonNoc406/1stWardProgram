@@ -19,7 +19,9 @@ body {
 
 /* Individual gallery items */
 .banner {
-
+	display: inline-block;
+	margin: auto;
+	width: 100%;
 }
 
 /* Images span the device width */
