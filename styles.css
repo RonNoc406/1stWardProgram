@@ -159,6 +159,7 @@ body {
 .jesus {
 	width: 100px;
 	height: auto;
+}
 
 /* Responsive design */
 @media (max-width: 600px) {
