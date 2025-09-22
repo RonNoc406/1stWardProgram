@@ -8,6 +8,7 @@ body {
 /* Gallery container */
 .gallery {
   display: flex;
+  align-content: center;
   flex-direction: column;
   gap: 1.5rem;
   width: 360px;
