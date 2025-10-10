@@ -189,10 +189,6 @@ body {
 		z-index: -1;
 		}
 
-	.flagOpacity {
-		opacity: 1;
-		}
-
     .dotted {
             border-top: 1.5px dotted #888;
             margin: 24px 0;
