@@ -178,6 +178,7 @@ body {
 		right: 0;
 		bottom: 0;
 		left: 0;
+		height: 80px;
 		background-image: url(https://www.countryflags.com/wp-content/uploads/el-salvador-flag-png-large.png);
 		background-size: cover;
 		background-position: center;
