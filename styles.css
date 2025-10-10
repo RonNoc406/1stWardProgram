@@ -80,11 +80,7 @@ body {
 
 /*table */
 
-	.calendar {
-		padding: 5px;
-		}
-
-    .container {
+	.container {
 		font-family: Georgia, serif;
         border: 2px solid #888;
         border-radius: 8px;
@@ -95,7 +91,11 @@ body {
 		box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   		transition: transform 0.2s ease;
         }
-	
+
+	.calendar {
+		padding: 5px;
+		}
+
 	h2 {
 	    font-family: 'Verdana', sans-serif;
         text-align: center;
