@@ -162,7 +162,7 @@ body {
             text-align: center;
         }
 
-	.mission1 {
+	.background-mission1 {
 		background-image: url(https://www.countryflags.com/wp-content/uploads/el-salvador-flag-png-large.png);
 		background-size: cover;
 		background-position: center;
@@ -171,7 +171,7 @@ body {
 		z-index: -1;
 		}
 
-	.mission2 {
+	.background-mission2 {
 		background-image: url(https://www.countryflags.com/wp-content/uploads/philippines-flag-png-large.png);
 		background-size: cover;
 		background-position: center;
@@ -180,7 +180,7 @@ body {
 		z-index: -1;
 		}
 		
-	.mission3 {
+	.background-mission3 {
 		background-image: url(https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png);
 		background-size: cover;
 		background-position: center;
