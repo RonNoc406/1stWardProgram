@@ -110,11 +110,12 @@ body {
 	h3 {
 		font-family: 'Verdana', sans-serif;
         text-align: center;
+		text-shadow: 1px 1px 2px black;
         font-size: 1.5em;
         font-weight: bold;
 		color: white;
 		background-color: #2268a5;
-		width: 320px;
+		width: 330px;
 		}
 
 	h4 {
