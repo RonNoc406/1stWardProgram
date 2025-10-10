@@ -181,7 +181,9 @@ body {
 		z-index: -1;
 		}
 
-	.content-mission1 {
+	.content-mission1 p{
+		color: black;
+		font-style: bold;
 		opacity: 1;
 		z-index: 1;
 		}
