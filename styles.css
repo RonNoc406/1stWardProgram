@@ -204,12 +204,10 @@ body {
 	.jesus {
 		display: block;
 		margin: auto;
-		width: 80px;
+		width: 90px;
 		height: auto;
 
 	.jesus img {
-		diplay: block;
-		margin: auto;
 		width: 80px;
 		height: auto;
 	}
