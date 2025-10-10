@@ -168,7 +168,12 @@ body {
 		background-position: center;
 		background-repeat: no-repeat;
 		opacity: 0.5;
-		z-index: -1;
+		z-index: 1;
+		}
+
+	.content-mission1 {
+		opacity: 1;
+		z-index: 2;
 		}
 
 	.background-mission2 {
@@ -177,16 +182,26 @@ body {
 		background-position: center;
 		background-repeat: no-repeat;
 		opacity: 0.5;
-		z-index: -1;
+		z-index: 1;
 		}
-		
+
+	.content-mission2 {
+		opacity: 1;
+		z-index: 2;
+		}
+
 	.background-mission3 {
 		background-image: url(https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png);
 		background-size: cover;
 		background-position: center;
 		background-repeat: no-repeat;
 		opacity: 0.5;
-		z-index: -1;
+		z-index: 1;
+		}
+
+	.content-mission3 {
+		opacity: 1;
+		z-index: 2;
 		}
 
     .dotted {
