@@ -197,14 +197,10 @@ body {
             font-size: 1em;
         }
 
-	.jesus {
-		display: block;
-		margin: auto;
-		width: 100px;
-		height: auto;
-		}
 
-	.jesus img {
+	.jesus {
+		diplay: block;
+		margin: auto;
 		width: 80px;
 		height: auto;
 	}
