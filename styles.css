@@ -128,13 +128,23 @@ body {
         width: 100%;
         border-collapse: collapse;
         margin: 24px 0;
-	    	
+	    }
+
+    th, td {
+        padding: 12px 8px;
+        border: 1px solid #bbb;
+        text-align: left;
+        }
+
+    th {
+        background: #2268a5;
         }
 
 	.left {
 	    text-align: left;
 		
 	}
+
 	.right {
 	    text-align: right;
 	    padding-left: 1.2em;
@@ -164,16 +174,6 @@ body {
 	.mission2
 
 	.mission3
-
-    th, td {
-        padding: 12px 8px;
-        border: 1px solid #bbb;
-        text-align: left;
-		opacity: 1;
-        }
-    th {
-        background: #2268a5;
-        }
 
     .dotted {
             border-top: 1.5px dotted #888;
