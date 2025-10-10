@@ -96,6 +96,10 @@ body {
 		padding: 5px;
 		}
 
+	.calendar p {
+		font-size: 1em;
+		}
+
 	h2 {
 	    font-family: 'Verdana', sans-serif;
         text-align: center;
