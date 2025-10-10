@@ -161,6 +161,7 @@ body {
 	.section-center{
 		display: block;
         margin: auto;
+		width: 100%;
         }
 
 	.missionTable th, .missionTable td {
