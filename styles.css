@@ -112,15 +112,15 @@ body {
         text-align: center;
         font-size: 1.5em;
         font-weight: bold;
-        color: white;
-		background-color: #2268a5;
-		width: 320px;
 		}
 
 	h4 {
 		font-family: 'Verdana', sans-serif;
         text-align: center;
 		font-size: 1.1em;
+		color: white;
+		background-color: #2268a5;
+		width: 320px;
 		}
 
     table {
