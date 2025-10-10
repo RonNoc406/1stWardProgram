@@ -183,7 +183,7 @@ body {
 
 	.content-mission1 p{
 		color: black;
-		font-style: bold;
+		font-weight: bold;
 		opacity: 1;
 		z-index: 1;
 		}
