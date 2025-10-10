@@ -111,13 +111,9 @@ body {
 	h3 {
 		font-family: 'Verdana', sans-serif;
         text-align: center;
-        font-size: 1.2em;
+        font-size: 1.3em;
         font-weight: bold;
-        text-decoration: underline;
-		}
-
-	.date {
-		font-decoration: none;
+        
 		}
 
     table {
