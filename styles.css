@@ -169,6 +169,7 @@ body {
         padding: 12px 8px;
         border: 1px solid #bbb;
         text-align: left;
+		opacity: 1;
         }
     th {
         background: #2268a5;
