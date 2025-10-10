@@ -159,7 +159,8 @@ body {
         }
 	
 	.section-center{
-            text-align: center;
+		display: block;
+        margin: auto;
         }
 
 	.missionTable th, .missionTable td {
