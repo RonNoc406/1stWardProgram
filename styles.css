@@ -168,12 +168,14 @@ body {
         text-align: left;
         }
 
-	.mission {
+	.background-mission1 {
 		position: relative;
-		padding: 0;
+		padding: 10px;
+		color: #000;
 		}
 
-	.background-mission1 {
+	.background-mission1::before {
+		content: "";
 		position: absolute;
 		top: 0;
 		left: 0;
@@ -181,6 +183,7 @@ body {
 		height: 100%;
 		background-image: url(https://www.countryflags.com/wp-content/uploads/el-salvador-flag-png-large.png);
 		background-size: cover;
+		background-repeat: no-repeat;
 		opacity: 0.5;
 		z-index: -1;
 		}
