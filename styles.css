@@ -176,6 +176,7 @@ body {
 	.flag {
 		width: 250px;
 		height: 90px;
+		background: #f4f4f4;
 		}
 
 	.flag img {
