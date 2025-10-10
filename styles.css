@@ -105,7 +105,8 @@ body {
         text-align: center;
         font-size: 1.9em;
         font-weight: bold;
-        text-decoration: underline;
+        color: white;
+		background-color: #2268a5;
         }
 	
 	h3 {
