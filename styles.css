@@ -162,6 +162,12 @@ body {
             text-align: center;
         }
 
+	.missionTable th, .missionTable td {
+		padding: 12px 8px;
+        border: 1px solid #bbb;
+        text-align: left;
+        }
+
 	.background-mission1 {
 		background-image: url(https://www.countryflags.com/wp-content/uploads/el-salvador-flag-png-large.png);
 		background-size: cover;
