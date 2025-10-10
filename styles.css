@@ -152,16 +152,14 @@ body {
 	}
     
 	.section-title {
-            text-align: center;
-            font-weight: bold;
-            background: #2268a5;
-            font-size: 1.1em;
+        text-align: center;
+        font-weight: bold;
+        background: #2268a5;
+        font-size: 1.1em;
         }
 	
 	.section-center{
-		display: block;
-        margin: auto;
-		width: 100%;
+		text-align: center;
         }
 
 	.missionTable th, .missionTable td {
