@@ -80,6 +80,9 @@ body {
 
 /*table */
 
+	.calendar {
+		padding: 5px;
+		}
 
     .container {
 		font-family: Georgia, serif;
