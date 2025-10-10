@@ -123,6 +123,10 @@ body {
 		font-family: 'Verdana', sans-serif;
         text-align: center;
 		font-size: 1.1em;
+		color: white;
+		background-color: #2268a5;
+		width: 300px;
+		padding: 12px;
 		}
 
     table {
