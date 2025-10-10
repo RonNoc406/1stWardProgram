@@ -158,14 +158,14 @@ body {
         font-size: 1.1em;
         }
 	
-	.section-center{
-		text-align: center;
-        }
-
 	.missionTable th, .missionTable td {
 		padding: 12px 8px;
         border: 1px solid #bbb;
         text-align: left;
+        }
+
+	.section-center{
+		text-align: center;
         }
 
 	.missionary {
