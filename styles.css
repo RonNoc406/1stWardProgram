@@ -202,14 +202,14 @@ body {
         }
 
 	.jesus {
+		width: 100%;
+		height: 200px;
+
+	.jesus img {
 		display: block;
 		margin: auto;
 		width: 80px;
-		height: 100px;
-
-	.jesus img {
-		width: 80px;
-		height: 100px;
+		height: auto;
 	}
 
 /* Responsive design */
