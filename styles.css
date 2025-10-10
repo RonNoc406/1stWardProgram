@@ -100,10 +100,6 @@ body {
 		font-size: 1em;
 		}
 
-	.date {
-		font-decoration: none;
-		}
-
 	h2 {
 	    font-family: 'Verdana', sans-serif;
         text-align: center;
@@ -118,6 +114,10 @@ body {
         font-size: 1.2em;
         font-weight: bold;
         text-decoration: underline;
+		}
+
+	.date {
+		font-decoration: none;
 		}
 
     table {
