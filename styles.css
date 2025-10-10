@@ -139,11 +139,12 @@ body {
         }
 	.left {
 	    text-align: left;
-		background: #f4f4f4;
+		
 	}
 	.right {
 	    text-align: right;
 	    padding-left: 1.2em;
+		background: #f4f4f4;
 	}
         .section-title {
             text-align: center;
