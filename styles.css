@@ -120,10 +120,10 @@ body {
 	    display: flex;
 	    justify-content: center;
 	    align-items: center;
-            width: 100%;
-            border-collapse: separate;
-            margin: 24px 0;
-	    	border-radius: 8px;
+        width: 100%;
+        border-collapse: collapse;
+        margin: 24px 0;
+	    	
         }
         th, td {
             padding: 12px 8px;
@@ -131,7 +131,7 @@ body {
             text-align: left;
         }
         th {
-            background: #eee;
+            background: #2268a5;
         }
 	.left {
 	    text-align: left;
@@ -171,7 +171,7 @@ body {
 }
 
 .jesus img {
-	width: 90px;
+	width: 80px;
 	height: auto;
 
 /* Responsive design */
