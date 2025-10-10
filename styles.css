@@ -130,6 +130,12 @@ body {
 		padding: 8px;
 		}
 
+	h5 {
+		font-family: 'Verdana', sans-serif;
+        text-align: center;
+		font-size: 1em;
+		}
+
     table {
 	    display: flex;
 	    justify-content: center;
