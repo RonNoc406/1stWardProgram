@@ -173,6 +173,11 @@ body {
 		height: 90px;
 		}
 
+	.flag img {
+		display: block;
+		margin: auto;
+		}
+
     .dotted {
             border-top: 1.5px dotted #888;
             margin: 24px 0;
