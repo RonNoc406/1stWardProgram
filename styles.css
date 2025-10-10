@@ -201,7 +201,7 @@ body {
             font-size: 1em;
         }
 
-	.jesus img {
+	#jesus {
 		display: block;
 		margin: auto;
 		width: 80px;
