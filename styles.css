@@ -168,7 +168,16 @@ body {
         text-align: left;
         }
 
+	.mission {
+		position: relative;
+		}
+
 	.background-mission1 {
+		position: absolute;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
 		background-image: url(https://www.countryflags.com/wp-content/uploads/el-salvador-flag-png-large.png);
 		background-size: cover;
 		background-position: center;
@@ -178,11 +187,16 @@ body {
 		}
 
 	.content-mission1 {
-		opacity: 1;
-		z-index: 2;
+		position: relative;
+		z-index: 1;
 		}
 
 	.background-mission2 {
+		position: absolute;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
 		background-image: url(https://www.countryflags.com/wp-content/uploads/philippines-flag-png-large.png);
 		background-size: cover;
 		background-position: center;
@@ -192,11 +206,15 @@ body {
 		}
 
 	.content-mission2 {
-		opacity: 1;
-		z-index: 2;
+		z-index: 1;
 		}
 
 	.background-mission3 {
+		position: absolute;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
 		background-image: url(https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png);
 		background-size: cover;
 		background-position: center;
@@ -206,8 +224,7 @@ body {
 		}
 
 	.content-mission3 {
-		opacity: 1;
-		z-index: 2;
+		z-index: 1;
 		}
 
     .dotted {
