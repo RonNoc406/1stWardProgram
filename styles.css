@@ -105,7 +105,7 @@ body {
         text-align: center;
         font-size: 1.8em;
         font-weight: bold;
-		border: 1px solid black;
+		border: 0.5px solid black;
         }
 	
 	h3 {
@@ -118,7 +118,7 @@ body {
 		background-color: #2268a5;
 		width: 300px;
 		padding: 15px;
-		border: 1px solid black;
+		border: 0.5px solid black;
 
 		}
 
@@ -131,7 +131,7 @@ body {
 		background-color: #2268a5;
 		width: 300px;
 		padding: 8px;
-		border: 1px solid black;
+		border: 0.5px solid black;
 		}
 
 	h5 {
@@ -147,7 +147,6 @@ body {
         width: 100%;
         border-collapse: collapse;
         margin: 24px 0;
-		border: 1px solid black;
 	    }
 
    .programTable th, .programTable td {
