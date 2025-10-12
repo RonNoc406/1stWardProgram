@@ -119,6 +119,10 @@ body {
         text-align: center;
         font-size: 1.8em;
         font-weight: bold;
+		color: white;
+		background-color: #2268a5;
+		width: 300px;
+		padding: 8px;
         }
 	
 	h3 {
@@ -151,6 +155,10 @@ body {
 		font-family: 'Verdana', sans-serif;
         text-align: center;
 		font-size: 1em;
+		color: white;
+		background-color: #2268a5;
+		width: 300px;
+		padding: 8px;
 		}
 
     table {
