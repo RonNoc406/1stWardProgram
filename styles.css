@@ -109,7 +109,10 @@ body {
 		font-family: Georgia, serif;
         border: 2px solid #888;
         border-radius: 8px;
-		background: #fff;
+		background-image: url("canvas.jpg);
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-size: cover;
         padding: 15px;
         width: 330px;
         margin: 1.2em auto;
