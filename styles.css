@@ -154,15 +154,9 @@ body {
 		bottom: 0;
 		}
 
-	.main-title h1 {
+	#the_title {
 		opacity: 1;
-		z-index: 1;
-		}
-
-	.main-title p {
-		color: white;
-		opacity: 1;
-		z-index: 1;
+		z-index: 2;
 		}
 
 	h2 {
