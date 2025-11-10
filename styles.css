@@ -23,13 +23,7 @@ body {
 	width: 100%;
 }
 
-.program {
-	min-height: 600px;
-	background-image: url("JosephSmith1V_Color.png");
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	} 
+
 
 /* Images span the device width */
 .banner img {
@@ -65,6 +59,14 @@ body {
   padding: 1.2rem 1.2rem;
   text-align: center;
 }
+
+.program {
+	min-height: 600px;
+	background-image: url("JosephSmith1V_Color.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	} 
 
 .announcement p {
   margin-bottom: 1rem;
