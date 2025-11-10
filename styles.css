@@ -80,6 +80,14 @@ body {
 
 /*table */
 
+	.primary {
+		background-image: url("1stVision.jpg");
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-size: cover;
+		color: white;
+		} 
+
 	.container {
 		font-family: Georgia, serif;
         border: 2px solid #888;
@@ -113,14 +121,6 @@ body {
 	.calendar p {
 		font-size: 1em;
 		}
-
-	.primary {
-		background-image: url("1stVision.jpg");
-		background-repeat: no-repeat;
-		background-position: center center;
-		background-size: cover;
-		color: white;
-		} 
 
 	h2 {
 	    display: block;
