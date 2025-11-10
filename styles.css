@@ -60,16 +60,6 @@ body {
   text-align: center;
 }
 
-.program {
-	position: relative;
-	min-height: 600px;
-	background-image: url("JosephSmith1V_Color.png");
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	filter: blur(5px);
-	} 
-
 .announcement p {
   margin-bottom: 1rem;
   color: #2268a5;
