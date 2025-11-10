@@ -114,6 +114,9 @@ body {
 		font-size: 1em;
 		}
 
+	.primary {
+		background-image: url("1stVision.jpg");
+
 	h2 {
 	    display: block;
 		margin: auto;
