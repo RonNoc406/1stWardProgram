@@ -24,6 +24,7 @@ body {
 }
 
 .program {
+	min-height: 600px;
 	background-image: url("JosephSmith1V_Color.png");
 	background-repeat: no-repeat;
 	background-position: center center;
