@@ -145,14 +145,16 @@ body {
 
 	.main_title {
 		display: block;
-		margin: auto;
+		margin: 1.2em auto;
+		width: 300px;
+		padding: 8px;
 		background-color: #2268a5;
 		opacity: 0.5;
 		position: absolute;
 		bottom: 0;
 		}
 
-	main-title p {
+	.main-title p {
 		color: white;
 		opacity: 1;
 		}
