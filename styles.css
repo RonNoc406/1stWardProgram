@@ -97,6 +97,10 @@ body {
 	color: white;
 	} 
 
+.primary iframe {
+	opacity: 0.9;
+	}
+
 /*table */
 
 
