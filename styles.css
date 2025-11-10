@@ -147,6 +147,13 @@ body {
 		margin: auto;
 		background-color: #2268a5;
 		opacity: 0.5;
+		position: absolute;
+		bottom: 0;
+		}
+
+	main-title p {
+		color: white;
+		opacity: 0;
 		}
 
 	h2 {
