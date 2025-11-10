@@ -106,6 +106,7 @@ body {
 
 
 	.container {
+		display: block;
 		font-family: Georgia, serif;
         border: 2px solid #888;
         border-radius: 8px;
