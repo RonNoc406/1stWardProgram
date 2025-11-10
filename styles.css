@@ -44,9 +44,7 @@ body {
 
 /* Volunteer section styling */
 
-.primary p {
-	color: white;
-	}
+
 
 .announcement {
   font-family: Verdana, sans-serif;
@@ -66,6 +64,10 @@ body {
   font-size: 1rem;
   font-weight: 500;
 }
+
+.primary p {
+	color: white;
+	}
 
 .announcement form input[type="submit"] {
   background-color: #2268a5;
