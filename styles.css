@@ -114,12 +114,12 @@ body {
 		font-size: 1em;
 		}
 
-	/*.primary {
+	.primary {
 		background-image: url("1stVision.jpg");
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: cover;
-		} */
+		} 
 
 	h2 {
 	    display: block;
