@@ -44,6 +44,10 @@ body {
 
 /* Volunteer section styling */
 
+.primary p {
+	color: white;
+	}
+
 .announcement {
   font-family: Verdana, sans-serif;
   background: #fff;
