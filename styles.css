@@ -61,6 +61,7 @@ body {
 }
 
 .program {
+	position: relative;
 	min-height: 600px;
 	background-image: url("JosephSmith1V_Color.png");
 	background-repeat: no-repeat;
@@ -153,7 +154,7 @@ body {
 
 	main-title p {
 		color: white;
-		opacity: 0;
+		opacity: 1;
 		}
 
 	h2 {
