@@ -154,6 +154,10 @@ body {
 		bottom: 0;
 		}
 
+	.main-title h1 {
+		opacity: 1;
+		}
+
 	.main-title p {
 		color: white;
 		opacity: 1;
