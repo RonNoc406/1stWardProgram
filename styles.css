@@ -146,7 +146,7 @@ body {
 	.main_title {
 		display: block;
 		margin: 1.2em auto;
-		width: 300px;
+		width: 280px;
 		padding: 2px;
 		background-color: #2268a5;
 		opacity: 0.6;
@@ -156,11 +156,13 @@ body {
 
 	.main-title h1 {
 		opacity: 1;
+		z-index: 1;
 		}
 
 	.main-title p {
 		color: white;
 		opacity: 1;
+		z-index: 1;
 		}
 
 	h2 {
