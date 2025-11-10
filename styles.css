@@ -44,14 +44,6 @@ body {
 
 /* Volunteer section styling */
 
-.primary {
-	background-image: url("1stVision.jpg");
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	color: white;
-	} 
-
 .announcement {
   font-family: Verdana, sans-serif;
   background: #fff;
@@ -86,6 +78,14 @@ body {
 .announcement form input[type="submit"]:hover {
   background-color: #164a7e;
 }
+
+.primary {
+	background-image: url("1stVision.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	color: white;
+	} 
 
 /*table */
 
