@@ -23,6 +23,13 @@ body {
 	width: 100%;
 }
 
+.program {
+	background-image: url("1stVision.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	} 
+
 /* Images span the device width */
 .banner img {
   display: block;
