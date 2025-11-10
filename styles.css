@@ -43,6 +43,15 @@ body {
 }
 
 /* Volunteer section styling */
+
+.primary {
+	background-image: url("1stVision.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	color: white;
+	} 
+
 .announcement {
   font-family: Verdana, sans-serif;
   background: #fff;
@@ -80,13 +89,7 @@ body {
 
 /*table */
 
-	.primary {
-		background-image: url("1stVision.jpg");
-		background-repeat: no-repeat;
-		background-position: center center;
-		background-size: cover;
-		color: white;
-		} 
+
 
 	.container {
 		font-family: Georgia, serif;
