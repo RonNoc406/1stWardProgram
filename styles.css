@@ -121,6 +121,10 @@ body {
 		background-size: cover;
 		} 
 
+	.primary.p {
+		color: white;
+		}
+
 	h2 {
 	    display: block;
 		margin: auto;
