@@ -142,20 +142,12 @@ body {
 		font-size: 1em;
 		}
 
-	h1 {
-	    display: block;
+	.main_title {
+		display: block;
 		margin: auto;
-		font-family: 'Verdana', sans-serif;
-        text-align: center;
-		text-shadow: 1px 1px 2px black;
-        font-size: 1.9em;
-        font-weight: bold;
-		color: white;
 		background-color: #2268a5;
-		width: 300px;
-		padding: 8px;
-		top-margin: 20px;
-        }
+		opacity: 0.5;
+		}
 
 	h2 {
 	    display: block;
