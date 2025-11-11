@@ -129,6 +129,7 @@ body {
 
 	.subcontainer p {
 		display: block;
+		font-size: 18px;
 		margin: 15px auto;
   		border-radius: 8px;
   		padding: 1.2rem 1.2rem;
