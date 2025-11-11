@@ -128,6 +128,9 @@ body {
 		font-family: Georgia, serif;
 		border-radius: 8px;
 		opacity: 0.8;
+		}
+
+	.subcontainer p {
 		margin: 15px auto;
   		border: 1px solid #888;
   		border-radius: 10px;
