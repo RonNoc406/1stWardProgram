@@ -93,8 +93,6 @@ body {
 
 .primary iframe {
 	opacity: 0.95;
-	overflow: clip;
-	scrollbar-width: none;
 	}
 
 /*table */
@@ -136,6 +134,11 @@ body {
   		padding: 1.2rem 1.2rem;
   		text-align: center;
 		color: black;
+		}
+
+	.subcontainer iframe {
+		overflow: clip;
+		scrollbar-width: none;
 		}
 
 
