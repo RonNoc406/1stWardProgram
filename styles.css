@@ -93,7 +93,7 @@ body {
 
 .primary iframe {
 	opacity: 0.95;
-	overflow: hidden;
+	overflow: clip;
 	}
 
 /*table */
@@ -135,9 +135,8 @@ body {
   		padding: 1.2rem 1.2rem;
   		text-align: center;
 		color: black;
-		
-		
 		}
+
 
 	.button {
 		display: block;
