@@ -122,6 +122,13 @@ body {
   		/* transition: transform 0.2s ease; */
         }
 
+	.subcontainer {
+		display: block;
+		font-family: Georgia, serif;
+		border-radius: 8px;
+		opacity: 0.8;
+		}
+
 	.button {
 		display: block;
 		margin: auto;
