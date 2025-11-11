@@ -87,7 +87,7 @@ body {
 	background-image: url("SacredGrove.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: contain;
+	background-size: cover;
 	color: white;
 	} 
 
@@ -131,6 +131,8 @@ body {
   		padding: 1.2rem 1.2rem;
   		text-align: center;
 		color: black;
+		background-color: lightgrey;
+		opacity: 0.8;
 		}
 
 	.button {
