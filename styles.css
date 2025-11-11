@@ -67,13 +67,6 @@ body {
   font-weight: 500;
 }
 
-.primary p {
-	color: white;
-	background-color: lightgrey;
-	text-shadow: -1px -1px 1px  black;
-	font-size: 20px;
-	}
-
 .announcement form input[type="submit"] {
   background-color: #2268a5;
   color: #fff;
@@ -93,7 +86,7 @@ body {
 .primary {
 	background-image: url("SacredGrove.jpg");
 	background-repeat: no-repeat;
-	background-position: center center;
+	background-position: center;
 	background-size: contain;
 	color: white;
 	} 
