@@ -110,7 +110,7 @@ body {
 		font-family: Georgia, serif;
         border: 2px solid #888;
         border-radius: 8px;
-		background-image: url("canvas.jpg");
+		background-image: url("whitebackground.jpg");
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: cover;
@@ -118,7 +118,8 @@ body {
         width: 330px;
         margin: 1.2em auto;
 		box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-  		transition: transform 0.2s ease;
+  		/* transition: transform 0.2s ease; */
+		filter: blur(3px);
         }
 
 	.button {
