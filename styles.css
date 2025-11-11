@@ -94,6 +94,7 @@ body {
 .primary iframe {
 	opacity: 0.95;
 	overflow: clip;
+	scrollbar-width: none;
 	}
 
 /*table */
