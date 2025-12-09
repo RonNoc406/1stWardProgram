@@ -67,6 +67,14 @@ body {
   font-weight: 500;
 }
 
+.announcement img {
+  display: block;
+  margin: auto;
+  width: 50%;
+  height: auto;
+  border: 1px solid #888;
+  border-radius: 8px;
+
 .announcement form input[type="submit"] {
   background-color: #2268a5;
   color: #fff;
