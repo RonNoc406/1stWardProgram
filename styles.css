@@ -70,11 +70,11 @@ body {
 .announcement img {
   display: block;
   margin: auto;
-  width: auto;
-  height: 60px;
-  border: 1px solid #888;
-  border-radius: 8px;
-
+  width: 50%;
+  height: auto;
+  
+}
+	
 .announcement form input[type="submit"] {
   background-color: #2268a5;
   color: #fff;
