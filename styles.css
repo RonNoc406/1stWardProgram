@@ -63,7 +63,7 @@ body {
 .announcement p {
   margin-bottom: 1rem;
   color: #0f5694;
-  font-size: 1.2rem;
+  font-size: 18px;
   font-weight: 500;
 }
 
@@ -127,7 +127,7 @@ body {
 
 	.subcontainer p {
 		display: block;
-		font-size: 1.2rem;
+		font-size: 18px;
 		margin: 15px auto;
   		border-radius: 8px;
   		padding: 1.2rem 1.2rem;
@@ -181,7 +181,7 @@ body {
 		font-family: 'Verdana', sans-serif;
         text-align: center;
 		text-shadow: 1px 1px 2px black;
-        font-size: 2.4em;
+        font-size: 2.5em;
         font-weight: bold;
 		color: #0f5694;
 		width: 300px;
@@ -194,7 +194,7 @@ body {
 		font-family: 'Verdana', sans-serif;
         text-align: center;
 		text-shadow: 1px 1px 2px black;
-        font-size: 1.8em;
+        font-size: 1.9em;
         font-weight: bold;
 		color: white;
 		background-color: #0f5694;
@@ -207,7 +207,7 @@ body {
 		font-family: 'Verdana', sans-serif;
         text-align: center;
 		text-shadow: 1px 1px 2px black;
-        font-size: 1.5em;
+        font-size: 1.6em;
         font-weight: bold;
 		color: white;
 		background-color: #0f5694;
@@ -221,7 +221,7 @@ body {
 		font-family: 'Verdana', sans-serif;
         text-align: center;
 		text-shadow: 1px 1px 1px black;
-		font-size: 1.1em;
+		font-size: 1.2em;
 		color: white;
 		background-color: #0f5694;
 		width: 300px;
@@ -232,7 +232,7 @@ body {
 	h5 {
 		font-family: 'Verdana', sans-serif;
         text-align: center;
-		font-size: 1em;
+		font-size: 1.1em;
 		}
 
     table {
@@ -269,7 +269,7 @@ body {
         text-align: center;
         font-weight: bold;
         background: #0f5694;
-        font-size: 1.1em;
+        font-size: 1.2em;
         }
 	
 	.missionTable th, .missionTable td {
